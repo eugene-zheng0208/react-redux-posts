@@ -1,0 +1,35 @@
+{
+    "name": "posts-react-redux",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "prop-types": "^15.5.10",
+        "re-reselect": "^0.5.0",
+        "react": "^15.5.4",
+        "react-a11y": "^0.3.4",
+        "react-dom": "^15.5.4",
+        "react-redux": "^5.0.5",
+        "react-router": "^4.1.1",
+        "react-router-dom": "^4.1.1",
+        "react-router-redux": "next",
+        "redux": "^3.6.0",
+        "redux-actions": "^2.0.3",
+        "redux-logger": "^3.0.6",
+        "redux-thunk": "^2.2.0",
+        "reselect": "^3.0.1",
+        "semantic-ui-css": "^2.2.10",
+        "semantic-ui-react": "^0.70.0",
+        "whatwg-fetch": "^2.0.3"
+    },
+    "devDependencies": {
+        "jest": "^20.0.4",
+        "react-scripts": "1.0.7",
+        "redux-testkit": "^1.0.6"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test --env=jsdom",
+        "eject": "react-scripts eject"
+    }
+}
